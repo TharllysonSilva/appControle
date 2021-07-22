@@ -12,9 +12,9 @@ class VerificationController extends Controller
     | Email Verification Controller
     |--------------------------------------------------------------------------
     |
-    | This controller is responsible for handling email verification for any
-    | user that recently registered with the application. Emails may also
-    | be re-sent if the user didn't receive the original email message.
+    | Este controlador é responsável por lidar com a verificação de e-mail para qualquer
+    | usuário que recentemente se registrou no aplicativo. E-mails também podem
+    | ser reenviado se o usuário não recebeu a mensagem de e-mail original.
     |
     */
 
@@ -28,7 +28,7 @@ class VerificationController extends Controller
     protected $redirectTo = '/home';
 
     /**
-     * Create a new controller instance.
+     * Cria uma nova instância de controlador.
      *
      * @return void
      */
