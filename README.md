@@ -55,5 +55,3 @@
 
 ---
 
-### Maintainer
-Igor Santos – igors.d@hotmail.com
